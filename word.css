@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.scr{
+    text-align: center;
+    position: relative;
+    top : 150px;
+
+}
+
+.scr p{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.scr input{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.scr button{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
